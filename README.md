@@ -26,7 +26,7 @@ install the required libraries
 ```bash
 pip install -r requirements.txt
 ```
-Open the `src` directory and run `main.py`
+Run `src/main.py` from the AutoMapper directory, do not execute main.py after opening the src directory!
 
 ## Example Video
 
