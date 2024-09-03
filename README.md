@@ -90,6 +90,7 @@ https://github.com/user-attachments/assets/d9aeae13-b981-4993-82aa-a7bd0fdb2440
 <p align="center">
   You can also save the generated map image, edit it on your prefered graphic editor and upload it and then generate the video
 </p>
+
 ![upload_save](https://github.com/user-attachments/assets/663ca923-be07-4640-bac7-95800a27c0da)
 
 ## Tests
