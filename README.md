@@ -5,6 +5,9 @@
   Generate a mapping video in seconds! You don't need to edit your videos anymore it's all automatic!
 </p>
 
+> [!CAUTION]
+> This is an old project that was only tested on Windows.
+
 ## Overview
 ### Features:
 - Coloring each country with a click of a button
